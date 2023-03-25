@@ -1,5 +1,5 @@
 # Kata_Calculator
-##Entrance test at Kata Academy. Console application "Calculator" for Java.
+## Entrance test at Kata Academy. Console application "Calculator" for Java.
 ________________________________________________________________
 Dear Maestro, your task is solved in time :date: :v::sunglasses::ok_hand:
 
